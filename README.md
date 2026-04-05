@@ -103,3 +103,21 @@ The project demonstrates strong data analysis skills including data cleaning, KP
 
 ---
 
+## 📁 Project Structure
+
+Blinkit-Analysis/
+│
+├── data/
+│   └── blinkit_data.csv
+├── notebooks/
+│   └── analysis.ipynb
+├── images/
+│   └── charts.png
+├── README.md
+
+---
+## ▶️ How to Run the Project
+
+1. Clone the repository
+2. Install dependencies  
+3. Run the Jupyter Notebook  
