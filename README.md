@@ -72,7 +72,12 @@ The project demonstrates strong data analysis skills including data cleaning, KP
 ### 🔹 5. Sales by Outlet Size
 - **Objective:** Understand how outlet size impacts sales
 - **Visualization:** Pie Chart
-![Mauli Store Sales Dashboard](6.png)
+
+### 🔹 6 .Total Sales by Outlet Location Type
+-** Objective: Analyze total sales distribution across different outlet location types to identify top-performing locations
+- **Visualization: Horizontal Bar Chart
+
+![Plots](Plots.png)
 ---
 
 ## ⚙️ Technologies Used
