@@ -74,7 +74,7 @@ The project demonstrates strong data analysis skills including data cleaning, KP
 - **Visualization:** Pie Chart
 
 ### 🔹 6 .Total Sales by Outlet Location Type
--** Objective: Analyze total sales distribution across different outlet location types to identify top-performing locations
+- ** Objective: Analyze total sales distribution across different outlet location types to identify top-performing locations
 - **Visualization: Horizontal Bar Chart
 
 ![Plots](Plots.png)
